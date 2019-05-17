@@ -5,7 +5,7 @@ This is my implementation of the Show, Attend and Tell paper.
 Taken assistance from the blogpost: https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
 
 
-You can see my implementation at [this](https://www.kaggle.com/blackcanary/image-caption-flicker8k) Kaggle kernel. The attention model was not successfully implemented, which I is why I trained my model without it.
+You can see my implementation at [this](https://www.kaggle.com/blackcanary/image-caption-flicker8k) Kaggle kernel. The attention model was not successfully implemented, which is why I trained my model without it.
 
 The highest BLEU scores after 20 epochs were:
 
@@ -18,4 +18,4 @@ The highest BLEU scores after 20 epochs were:
 **BLEU-4:    9.4241%**
 
 
-This is the first implementation and I will keep optimizing it.
+This is the first implementation and will be optimized further.
