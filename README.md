@@ -9,10 +9,13 @@ You can see my implementation at [this](https://www.kaggle.com/blackcanary/image
 
 The highest BLEU scores after 20 epochs were:
 
-BLEU-1:   53.0076%
-BLEU-2:   28.6551%
-BLEU-3:   19.7607%
-BLEU-4:    9.4241%
+**BLEU-1:   53.0076%**
+
+**BLEU-2:   28.6551%**
+
+**BLEU-3:   19.7607%**
+
+**BLEU-4:    9.4241%**
 
 
 This is the first implementation and I will keep optimizing it.
